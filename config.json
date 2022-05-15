@@ -1,0 +1,9 @@
+{
+	"ip":"RoyalprienceSMP.aternos.me",
+	"port": 41150,
+	"name": "afkbot202",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register <kartiK> <kartiK>",
+	"login-cmd":"/login (kartiK)"
+}
